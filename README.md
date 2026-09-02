@@ -1,2 +1,2 @@
 # NTI
-A repositry for my summere training with NTI 
+A repositry for my summer training with NTI 
